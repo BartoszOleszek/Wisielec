@@ -1,0 +1,42 @@
+
+Processing C:\Users\ASUS\Desktop\C++\Projekt z zakresu programowania\Wisielec\Wisielec.ciq 07.02.2024 21:58:00
+Log file: C:\Users\ASUS\Desktop\C++\Projekt z zakresu programowania\Wisielec\Wisielec.log 
+Generating Sources... 
+Compiling Gentee Sources... 
+Build setup file: C:\Users\ASUS\Desktop\C++\Projekt z zakresu programowania\wisielec.exe 
+Adding temporary file(s) to EXE 
+C:\Users\ASUS\AppData\Local\Temp\gentee01\english.lng 07.02.2024 21:58:01 3883  46.25%
+C:\Program Files (x86)\CreateInstall Free\res\logo\default - 1.bmp 20.03.2018 17:19:53 7308  52.55%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\install\install - 1.bmp 20.03.2018 17:19:53 20678  33.44%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 20.03.2018 17:19:53 20678  28.19%
+Build setup file: C:\Users\ASUS\AppData\Local\Temp\gentee01\uninstall.exe 
+Adding uninstall file(s) to EXE 
+Getting list of files 
+Packing files... 
+================================ 
+C:\Users\ASUS\Desktop\plikiprojektu\diamond.png 31.01.2024 15:49:22 1748  92.84%
+C:\Users\ASUS\Desktop\plikiprojektu\diamond_mniejszy.png 31.01.2024 15:49:22 1518  72.52%
+C:\Users\ASUS\Desktop\plikiprojektu\Hangman-Game.ico 31.01.2024 15:49:22 560526  10.75%
+C:\Users\ASUS\Desktop\plikiprojektu\puchar_1.png 31.01.2024 22:58:50 6133  57.91%
+C:\Users\ASUS\Desktop\plikiprojektu\puchar_2.png 31.01.2024 22:57:16 6338  38.41%
+C:\Users\ASUS\Desktop\plikiprojektu\puchar_3.png 31.01.2024 23:01:14 6078  35.81%
+C:\Users\ASUS\Desktop\plikiprojektu\slowa.txt 31.01.2024 23:23:46 3234  41.86%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec.exe 07.02.2024 12:29:47 3352064  84.30%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec.ico 08.01.2024 22:54:52 269342  3.64%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec.jpg 08.01.2024 22:54:52 6943  73.67%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec0.jpg 31.01.2024 15:49:26 1785  3.19%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec1.jpg 31.01.2024 15:49:26 2536  14.51%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec10.jpg 31.01.2024 15:49:26 6943  0.51%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec2.jpg 31.01.2024 15:49:26 3459  18.03%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec3.jpg 31.01.2024 15:49:26 3894  6.65%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec4.jpg 31.01.2024 15:49:26 4067  18.49%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec5.jpg 31.01.2024 15:49:26 4869  1.29%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec6.jpg 31.01.2024 15:49:26 5237  15.23%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec7.jpg 31.01.2024 15:49:28 5588  18.66%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec8.jpg 31.01.2024 15:49:28 5975  3.53%
+C:\Users\ASUS\Desktop\plikiprojektu\wisielec9.jpg 31.01.2024 15:49:28 6451  9.57%
+C:\Users\ASUS\Desktop\plikiprojektu\zarowka.png 31.01.2024 15:49:22 2635  100.34%
+================================ 
+All files: 22 [ 4167KB => 2852KB ] 
+File Size C:\Users\ASUS\Desktop\C++\Projekt z zakresu programowania\wisielec.exe: 2974 KB 
+Finish Successful 07.02.2024 21:58:04
